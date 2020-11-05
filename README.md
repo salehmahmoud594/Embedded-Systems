@@ -1,2 +1,2 @@
-# Embedded-Systems
-Embedded Systems Course Tasks
+# Embedded-System
+Embedded System Course Tasks
